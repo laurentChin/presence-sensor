@@ -1,0 +1,24 @@
+{
+  "name": "presence-sensor",
+  "version": "1.0.0",
+  "description": "Programm for the pression sensor straps plugged to an arduino",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurentChin/presence-sensor.git"
+  },
+  "keywords": [
+    "arduino",
+    "johny-five",
+    "iot"
+  ],
+  "author": "Laurent Janet <laurent.janet@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurentChin/presence-sensor/issues"
+  },
+  "homepage": "https://github.com/laurentChin/presence-sensor#readme"
+}
